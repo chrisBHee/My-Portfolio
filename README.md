@@ -119,7 +119,7 @@ I'm interested in:
 
 **Email:** [christopherhakimi@gmail.com](mailto:christopherhakimi@gmail.com)  
 **GitHub:** [chrisBHee](https://github.com/chrisBHee)  
-
+**Portfolio:** [https://beautiful-crisp-bfcc3b.netlify.app/]
 ---
 
 > "Good design is invisible; it protects the user while making complex workflows effortless."
